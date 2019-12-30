@@ -11,7 +11,7 @@ region: Latin America
 ---
 __NOTOC__
 
-[809px](image:_Logo_cuiaba.png "wikilink")
+[809px](image:_Logo_cuiaba.png )
 
 # OWASP Cuiabá Chapter
 
@@ -73,27 +73,27 @@ Repositótio: <https://github.com/Kembolle/OWASP-Cuiaba>
 
 <b>Centro Universitário de Várzea Grande - UNIVAG </b>
 \*Title: [Apresentação OWASP
-cuiabá](https://www.owasp.org/images/2/20/OWASP_cuiab%C3%A1.pdf)
+cuiabá](/www-pdf-archive/OWASP_cuiab%C3%A1.pdf)
 \*Event: [UNIVAG](http://www.univag.com.br/v1/index.aspx)
 \*Date: 10/04/2011
 <b>Universidade Federal de Mato Grosso - UFMT </b>
 \*Title: [Apresentação OWASP
-cuiabá](https://www.owasp.org/images/2/20/OWASP_cuiab%C3%A1.pdf)
+cuiabá](/www-pdf-archive/OWASP_cuiab%C3%A1.pdf)
 \*Event: [UFMT](http://www.ufmt.br/ufmt/site/page)
 \*Date: 22/03/2012
 <b>Universidade de Cuiabá - UNIC </b>
 \*Title: [Apresentação OWASP
-cuiabá](https://www.owasp.org/images/2/20/OWASP_cuiab%C3%A1.pdf)
+cuiabá](/www-pdf-archive/OWASP_cuiab%C3%A1.pdf)
 \*Event: [UNIC](http://www.unic.br/site/index.php)
 \*Date: 02/04/2012
 <b>Unirondon Centro Universitário - UNIRONDON </b>
 \*Title: [Apresentação OWASP
-cuiabá](https://www.owasp.org/images/2/20/OWASP_cuiab%C3%A1.pdf)
+cuiabá](/www-pdf-archive/OWASP_cuiab%C3%A1.pdf)
 \*Event: [Unirondon](http://www.unirondon.br/)
 \*Date: 09/04/2012
 <b>ICEC - Instituto Cuiabá de Ensino e Cultura</b>
 \*Title: [Apresentação OWASP
-cuiabá](https://www.owasp.org/images/2/20/OWASP_cuiab%C3%A1.pdf)
+cuiabá](/www-pdf-archive/OWASP_cuiab%C3%A1.pdf)
 \*Event:1ª Feira Cultural Multidisciplinar do ICEC e IESMT [ICEC -
 Instituto Cuiabá de Ensino e Cultura](http://http://www.icec.edu.br)
 \*Date: 14, 15 e 16 de Maio 2012.
@@ -197,12 +197,12 @@ Oficial](https://calendar.google.com/calendar/embed?src=owasp.org_2dlqbcecuri6iv
 
 # Chapter Leaders
 
-The chapter Leader is [Kembolle Amilkar](User:Kembolle "wikilink")
+The chapter Leader is [Kembolle Amilkar](User:Kembolle )
 
-Managers: \* [Gabriel Pedro](User:Gabriel_Pedro "wikilink") ,\* Saron
+Managers: \* [Gabriel Pedro](User:Gabriel_Pedro ) ,\* Saron
 Milhomem , \* [Debora
-Cristina](User:Débora_Cristina_de_Oliveira "wikilink") ,\* Alison S.
-Ribeiro ,\* [Ricardo Germano](User:Ricardo_A._Germano "wikilink").
+Cristina](User:Débora_Cristina_de_Oliveira ) ,\* Alison S.
+Ribeiro ,\* [Ricardo Germano](User:Ricardo_A._Germano ).
 
 # Locais Organização
 
@@ -217,5 +217,5 @@ Ribeiro ,\* [Ricardo Germano](User:Ricardo_A._Germano "wikilink").
 
 <headertabs></headertabs>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Brasil](Category:Brasil "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Brasil](Category:Brasil )
