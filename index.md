@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Cuiaba
-tags: example-tag
+tags: OWASP Cuiaba-tag
 level: 0
 
 region: Latin America
@@ -10,45 +10,43 @@ region: Latin America
 auto-migrated: 1
 
 ---
+ 
+[809px](image:_Logo_cuiaba.png )
 
+# OWASP Cuiabá Chapter
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+O município de Cuiabá esta Localizada no estado de Mato Grosso, Possui
+cerca de 556.298 habitantes, onde possui varias empresas de tecnologia e
+Universidades que apoiam crescimento tecnológico da Cidade. Visando este
+crescimento foi criado Capitulo OWASP de Cuiabá, para conscientizar as
+pessoas envolvidas com tecnologia da informação , sobre a importância
+Segurança das aplicações.
 
-{front matter for this file}
+A Metodologia de Trabalho da Comunidade é uma estrutura organizacional
+horizontal ou seja, a mais democrático possível, onde todos são lideres,
+todos constrõem metodologias, delegam funções e exercem suas tarefas
+para manter capitulo mais integro, aberto, e transparente possível para
+toda comunidade Cuiabana. 
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+Hoje Atuamos em todas as universidades da capital e Empresas Privadas, 
+que nos apoiam financeiramente ou em projetos para continuarmos com forte trabalho da OWASP. 
+Iremos expandir nossos horizontes ate os municípios mais distantes, levando assim nosso
+conhecimento e metodologias as todas as universidades trazendo assim
+nível maior de compreensão sobre a importância da Segurança das
+aplicações e serviços oferecidos a Sociedade.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Atividades da Comunidade Meetings Conectividade agenda Leaders
+  - PT-BR - Participe da Lista de comunicação Capítulo Cuiabá [Clique Aqui](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
+  - U.S.A - join the list of communication Chapter Cuiabá [Click Here](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+# Atividades da Comunidade
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+  - Tradução de Material: Realizamos tradução de Materiais oficiais da
+    Owasp junto a outras comunidades para língua portuguesa, tornando-as
+    de facil acesso e entendimento a Comunidade de TI.
+  - Cursos: Realizamos cursos das quais disponibilizamos gratuitamente a
+    toda Comunidade de TI, visando a parte pratica da Segurança da
+    informação utilizando conteudo da OWASP.
+  - Projetos: Distribuição Forense criada por membros da comunidade, com
+    intuito de auxiliar toda atividade a ser executada neste campo de
+    pesquisa.
