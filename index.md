@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Cuiaba
-tags: OWASP Cuiaba-tag
+tags: conectividade-tag locais-tag meeting-tag
 level: 0
 
 region: Latin America
@@ -11,7 +11,7 @@ auto-migrated: 1
 
 ---
  
-[809px](image:_Logo_cuiaba.png )
+[809px](assets/images/Logo_cuiaba.png )
 
 # OWASP Cuiabá Chapter
 
