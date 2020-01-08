@@ -8,9 +8,9 @@ tags: conectividade-tag
 
 ## Conectividade e Midia Digital
 
-  - **Ambiente de Desenvolvimento:** <http://github.com/OWASP-Cuiaba>
-  - **Ambiente Educacional:** <http://github.com/OWASP-Cuiaba>
-  - **Ambiente de Comunicação:** Server: irc.freenode.net. Canal:
+**Ambiente de Desenvolvimento:** <http://github.com/OWASP-Cuiaba>
+**Ambiente Educacional:** <http://github.com/OWASP-Cuiaba>
+**Ambiente de Comunicação:** Server: irc.freenode.net. Canal:
     \#owasp_cuiaba
 
 ## Agenda Chapter Cuiabá

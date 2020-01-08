@@ -9,7 +9,7 @@ region: Latin America
 
 ---
  
-![809px](assets/images/Logo_cuiaba.png)
+![Cuiaba, MT](assets/images/Logo_cuiaba.png)
 
 ## OWASP Cuiabá Chapter
 
@@ -34,17 +34,17 @@ nível maior de compreensão sobre a importância da Segurança das
 aplicações e serviços oferecidos a Sociedade.
 
 Atividades da Comunidade Meetings Conectividade agenda Leaders
-  - PT-BR - Participe da Lista de comunicação Capítulo Cuiabá [Clique Aqui](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
-  - U.S.A - join the list of communication Chapter Cuiabá [Click Here](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
+PT-BR - Participe da Lista de comunicação Capítulo Cuiabá [Clique Aqui](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
+U.S.A - join the list of communication Chapter Cuiabá [Click Here](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
 
 ## Atividades da Comunidade
 
-  - Tradução de Material: Realizamos tradução de Materiais oficiais da
+Tradução de Material: Realizamos tradução de Materiais oficiais da
     Owasp junto a outras comunidades para língua portuguesa, tornando-as
     de facil acesso e entendimento a Comunidade de TI.
-  - Cursos: Realizamos cursos das quais disponibilizamos gratuitamente a
+Cursos: Realizamos cursos das quais disponibilizamos gratuitamente a
     toda Comunidade de TI, visando a parte pratica da Segurança da
     informação utilizando conteudo da OWASP.
-  - Projetos: Distribuição Forense criada por membros da comunidade, com
+Projetos: Distribuição Forense criada por membros da comunidade, com
     intuito de auxiliar toda atividade a ser executada neste campo de
     pesquisa.
