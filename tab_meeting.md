@@ -1,5 +1,5 @@
 ---
-title: OWASP Cuiaba
+title: meeting
 layout:  null
 tab: true
 order: 3
@@ -7,7 +7,7 @@ tags: meeting-tag
 ---
 
 ## Storage Meetings Cuiabá
-  - Meetups: Base de encontros em todas as Universidades do Estado, onde
+Meetups: Base de encontros em todas as Universidades do Estado, onde
     buscamos disseminar a segurança da informação e segurança em
     aplicações web.
 

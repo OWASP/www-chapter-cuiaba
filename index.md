@@ -3,15 +3,15 @@
 layout: col-sidebar
 title: OWASP Cuiaba
 tags: conectividade-tag locais-tag meeting-tag
-level: 0
+level: 4
 
 region: Latin America
 
 ---
  
-![Cuiaba, MT](assets/images/Logo_cuiaba.png)
 
 ## OWASP Cuiabá Chapter
+![Cuiaba, MT](assets/images/Logo_cuiaba.png)
 
 O município de Cuiabá esta Localizada no estado de Mato Grosso, Possui
 cerca de 556.298 habitantes, onde possui varias empresas de tecnologia e
@@ -34,8 +34,8 @@ nível maior de compreensão sobre a importância da Segurança das
 aplicações e serviços oferecidos a Sociedade.
 
 Atividades da Comunidade Meetings Conectividade agenda Leaders
-PT-BR - Participe da Lista de comunicação Capítulo Cuiabá [Clique Aqui](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
-U.S.A - join the list of communication Chapter Cuiabá [Click Here](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
+- PT-BR - Participe da Lista de comunicação Capítulo Cuiabá [Clique Aqui](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
+- U.S.A - join the list of communication Chapter Cuiabá [Click Here](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
 
 ## Atividades da Comunidade
 
