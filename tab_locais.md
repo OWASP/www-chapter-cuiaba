@@ -1,5 +1,5 @@
 ---
-title: locais
+title: Locais
 layout:  null
 tab: true
 order: 2
