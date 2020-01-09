@@ -5,7 +5,7 @@ title: OWASP Cuiaba
 tags: conectividade-tag locais-tag meeting-tag
 level: 4
 
-region: Latin America
+region: South America
 
 ---
  
