@@ -7,18 +7,13 @@ tags: meeting-tag
 ---
 
 ## Storage Meetings Cuiabá
-Meetups: Base de encontros em todas as Universidades do Estado, onde
-    buscamos disseminar a segurança da informação e segurança em
-    aplicações web.
 
 - <b>Centro Universitário de Várzea Grande - UNIVAG</b>
-
   - Title: [Apresentação OWASP Cuiabá](/www-pdf-archive/OWASP_cuiab%C3%A1.pdf)
   - Event: [UNIVAG](http://www.univag.com.br/v1/index.aspx)
   - Date: 10/04/2011
 
 - <b>Universidade Federal de Mato Grosso - UFMT</b>
-
   - Title: [Apresentação OWASP Cuiabá](/www-pdf-archive/OWASP_cuiab%C3%A1.pdf)
   - Event: [UFMT](http://www.ufmt.br/ufmt/site/page)
   - Date: 22/03/2012
@@ -47,7 +42,7 @@ Meetups: Base de encontros em todas as Universidades do Estado, onde
   - Event: [ICEC - Instituto Cuiabá de Ensino e Cultura](http://http://www.icec.edu.br)
   - Date: 11 de Setembro de 2014 
 
-Participantes: 
+Participantes:
   - [Kembolle Amilkar](https://www.owasp.org/index.php/User:Kembolle)
   - [Gabriel Pedro](https://www.owasp.org/index.php?title=User:Gabriel_Pedro)
   - [Ricardo Germano](https://www.owasp.org/index.php/User:Ricardo_Germano)
@@ -59,10 +54,10 @@ Participantes:
   - Event: [SEMINFO - Semana da Informatica UNIC/UNIRONDON](http://seminfo.eti.br/)
   - Date: 19 a 23 de Outubro de 2015
 
-Participantes: 
+Participantes:
   - [Kembolle Amilkar](https://www.owasp.org/index.php/User:Kembolle)
   - [Gabriel Pedro](https://www.owasp.org/index.php?title=User:Gabriel_Pedro)
-  - [Debora Cristina](https://www.owasp.org/index.php/User:D%C3%A9bora_Cristina_de_Oliveira).
+  - [Debora Cristina](https://www.owasp.org/index.php/User:D%C3%A9bora_Cristina_de_Oliveira)
 
 - <b>UFMT - Universidade Federal de Mato Grosso</b>
 
@@ -71,24 +66,24 @@ Participantes:
   - Universidade Federal de Mato Grosso](http://www.ufmt.br/ufmt/site/)
   - Date: 11 de Setembro de 2015
 
-Participantes: 
+Participantes:
   - [Kembolle Amilkar](https://www.owasp.org/index.php/User:Kembolle)
-  - [Ricardo Germano](https://www.owasp.org/index.php/User:Ricardo_Germano).
+  - [Ricardo Germano](https://www.owasp.org/index.php/User:Ricardo_Germano)
 
 - <b>Faculdade de Tecnologia SENAI Mato Grosso - SENAI-MT</b>
 
   - Title: Segurança e vulnerabilidades em aplicações WEB - OWASP.
-  - Event: CIRCUITO DE TECNOLOGIA E INOVAÇÃO- [FATEC SENA MT](http://www.senaimt.com.br) .
+  - Event: CIRCUITO DE TECNOLOGIA E INOVAÇÃO- [FATEC SENA MT](http://www.senaimt.com.br) 
   - Date: 30 de Julho de 2016
 
-Links de Publicação: 
-  - [Faculdade de Tecnologia SENAI Mato Grosso -SENAI-MT](http://www.senaimt.com.br/site/mostra.php?noticia=13275) ,
+Links de Publicação:
+  - [Faculdade de Tecnologia SENAI Mato Grosso -SENAI-MT](http://www.senaimt.com.br/site/mostra.php?noticia=13275) 
   - [Linux Trainning](http://linuxtraining.com.br/br/?p=466)
   - [FacebookChapter Owasp](https://www.facebook.com/owasp.cuiaba/posts/831332317001400)
 
-Participantes: 
+Participantes:
   - [Kembolle Amilkar](https://www.owasp.org/index.php/User:Kembolle)
-  - [Ricardo Germano](https://www.owasp.org/index.php/User:Ricardo_Germano).
+  - [Ricardo Germano](https://www.owasp.org/index.php/User:Ricardo_Germano)
 
 
 - <b>Instituto Federal de Mato Grosso - IFMT</b>
