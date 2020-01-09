@@ -77,6 +77,10 @@ Links de Publicação:
 Participantes:
   - [Kembolle Amilkar](https://www.owasp.org/index.php/User:Kembolle)
   - [Ricardo Germano](https://www.owasp.org/index.php/User:Ricardo_Germano)
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 
 - <b>Instituto Federal de Mato Grosso - IFMT</b>
   - Title: OWASP – Segurança em Aplicações Web e Defesa Cibernética
