@@ -8,7 +8,7 @@ tags: locais-tag
 
 ## Locais Organização
 
-**Universidades**  
+**Universidades**
   - [FATEC - Faculdade de Tecnologia Mato Grosso](http://www.senaimt.com.br/site/fatec/)
   - [UFMT-Universidade de Mato Grosso](http://www.ufmt.br/ufmt/site/)
   - [IFMT-Instituto Federal de Mato Grosso](http://ifmt.edu.br/)
