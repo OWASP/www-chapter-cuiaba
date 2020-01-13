@@ -9,7 +9,7 @@ region: Latin America
 
 ---
  
-![Owasp Day 2020](assets/images/Logo_cuiaba.png)
+![Owasp Day 2020](https://github.com/OWASP/www-chapter-cuiaba/blob/master/assets/images/Logo_cuiaba.png)
 ## lorem ipsum 
 
 - O evento 
