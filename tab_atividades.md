@@ -6,7 +6,7 @@ order: 1
 tags: atividades-tag
 ---
 
- 
+
 
 ## Atividades da Comunidade
 - Tradução de Material: Realizamos tradução de Materiais oficiais da Owasp junto a outras comunidades para língua portuguesa, tornando-as de facil acesso e entendimento a Comunidade de TI. 
