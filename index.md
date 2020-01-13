@@ -9,7 +9,7 @@ region: Latin America
 
 ---
  
-[809px](image:_Logo_cuiaba.png )
+![809px](assets/images/Logo_cuiaba.png)
 
 # OWASP Cuiabá Chapter
 
