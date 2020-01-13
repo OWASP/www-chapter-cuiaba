@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Cuiaba
-tags: onectividade-tag locais-tag meeting-tag patrocinadores-tag atividades-tag
+tags: atividades-tag conectividade-tag  meeting-tag locais-tag patrocinadores-tag 
 level: 0
 
 region: Latin America
