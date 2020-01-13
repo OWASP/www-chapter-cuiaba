@@ -9,15 +9,15 @@ region: Latin America
 
 ---
  
-![Owasp Day 2020](https://github.com/OWASP/www-chapter-cuiaba/blob/master/assets/images/Logo_cuiaba.png)
+![Owasp Day 2020](assets/images/logo.png)
 ## lorem ipsum 
 
 - O evento 
 - Palestrantes 
 - Patrocinadores 
+- Data / Hora / Local 
 - Valores 
-- Local 
 - Pontos de Referência 
-* alimentação 
-* transporte 
+* Alimentação 
+* Transporte 
 * Diversão :D 

@@ -36,3 +36,5 @@ aplicações e serviços oferecidos a Sociedade.
 Atividades da Comunidade Meetings Conectividade agenda Leaders
   - PT-BR - Participe da Lista de comunicação Capítulo Cuiabá [Clique Aqui](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
   - U.S.A - join the list of communication Chapter Cuiabá [Click Here](http://lists.owasp.org/mailman/listinfo/owasp-cuiaba)
+
+[![Calendário](/assets/icons/calendar.gif)](https://calendar.google.com/calendar/embed?src=owasp.org_2dlqbcecuri6ivgmhh041i61os%40group.calendar.google.com&ctz=America/Cuiaba)
