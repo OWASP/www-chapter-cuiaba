@@ -5,7 +5,7 @@ title: OWASP Cuiaba
 tags: atividades-tag conectividade-tag  meeting-tag locais-tag patrocinadores-tag 
 level: 0
 
-region: Latin America
+region: South America
 
 ---
  
