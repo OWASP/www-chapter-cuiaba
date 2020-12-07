@@ -52,7 +52,7 @@ Dia 11/12- Sexta-feira - Tema "Carreiras" ( Mediadores: Luís Cézar Darienzo & 
 <img src="assets/images/fatec.png" height="400" width="200"> <img src="assets/images/owasp-cba.jpeg" height="200" width="200">
 
 ## - Apoio: 
-<img src="assets/images/devmt.jpg" height="200" width="200"> <img src="assets/images/lume+.jpeg" height="200" width="200"> <img src="assets/images/rondon.png" height="200" width="200"> <img src="assets/images/igpsc.png" height="200" width="200"> 
+<img src="assets/images/devmt.jpg" height="200" width="200"> <img src="assets/images/lume+.jpeg" height="200" width="200"> <img src="assets/images/rondon.png" height="200" width="200"> <img src="assets/images/ipgsc.png" height="200" width="200"> 
 
 ## - Observações:
 - O evento será totalmente online e gratuito, transmitido pelo canal do YouTube da [FATEC SENAI- MT](https://www.youtube.com/c/FatecSenaiMatoGrosso)
