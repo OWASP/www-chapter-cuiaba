@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: Owasp Day Cuiaba 2020
+title:Sejam muito bem-vind@s ao OWASP Day 2020!
 tags: owaspday2020-tag
 level: 0
 
@@ -50,20 +50,14 @@ Dia 11/12- Sexta-feira - Tema "Carreiras" ( Mediadores: Luís Cézar Darienzo & 
 09 á 11 de Dezembro de 2020 das 19 às 21hrs (Horário de Cuiabá - Mato Grosso).﻿
 
 ## - Realização: 
-<img src="assets/images/fatec.png" height="200" width="200">
-
-<img src="assets/images/owasp-cba.jpeg" height="200" width="200">
+<img src="assets/images/fatec.png" height="400" width="200"> <img src="assets/images/owasp-cba.jpeg" height="200" width="200">
 
 ## - Apoio: 
-<img src="assets/images/devmt.jpg" height="200" width="200">
-
-<img src="assets/images/lume+.jpeg" height="200" width="200">
-
-<img src="assets/images/rondon.png" height="200" width="200">
+<img src="assets/images/devmt.jpg" height="200" width="200"> <img src="assets/images/lume+.jpeg" height="200" width="200"> <img src="assets/images/rondon.png" height="200" width="200">
 
 ## - Observações:
-- O evento será totalmente online e será transmitido pelo canal do YouTube da FATEC SENAIMT.
-- Ao final dos encontros realizaremos sorteios de Brindes para a comunidade. 
+- O evento será totalmente online e gratuito, transmitido pelo canal do YouTube da [FATEC SENAI- MT](https://www.youtube.com/c/FatecSenaiMatoGrosso)
+- Ao final dos encontros realizaremos sorteios de brindes para a comunidade. happy hacking !!! :D  
 
 ## - Inscrições: 
 [https://lnkd.in/eTmCSVM](https://lnkd.in/eTmCSVM)
