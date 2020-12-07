@@ -24,40 +24,45 @@ Conheça tambem as organicas que apoiam nosso encontro para fazer este dia espec
 
 ## - Programação:  
 
-Dia 09/12 - Quarta-feira - Tema "Papéis e Processos": ( Mediador Eduardo Manzeppi & Ramicés dos Santos Silva)
+Dia 09/12 - Quarta-feira - Tema "Papéis e Processos" ( Mediadores: Eduardo Manzeppi & Ramicés dos Santos Silva )
 
 - Wilson Leite Perito Criminal - Instituto Geral de Perícias (IGP/SC)
-- Alessandra Monteiro Martins GPSC Consultant | Murah | DPO & CSO as a Service
+- Alessandra Monteiro Martins GPSC Consultant - Murah - DPO & CSO as a Service
 - Clariana Cardoso ( Clara ) IT Manager and Head of Innovation
 
 
-Dia 10/12 - Quinta-feira - Tema "Ferramentas e Skills / Segurança ( Mediador Kembolle Amilkari & Abraão Nazário)
+Dia 10/12 - Quinta-feira - Tema "Ferramentas e Skills / Segurança ( Mediadores: Kembolle Amilkar & Abraão Nazário )
 
 - Igor Serra Pereira - IT Infrastructure Supervisor at Amaggi
 - Joatham Pedro - Analista de Segurança da Informação at 4Linux
-- Alvaro Viebrantz -  Product Engineer at Leverege & Google Developer Expert for IoT
+- Alvaro Viebrantz -  Product Engineer at Leverege & Google Developer Expert for IoT.
 
 
-Dia 11/12- Sexta-feira - Tema "Carreiras" (link):( Mediador Luís Cézar Darienzo & Abraão Nazário)
+Dia 11/12- Sexta-feira - Tema "Carreiras" ( Mediadores: Luís Cézar Darienzo & Abraão Nazário )
 
-- Dalmo Veras Neto - 313X Cyber Intelligence
+- Dalmo Veras Neto - Chapter Leader OWASP Florianópolis - 313X Cyber Intelligence
 - Ricardo Alexandre Germano de Assis - Especialista técnico em redes na LogLab
 - Luís Cézar Darienzo Alves - PhD - Distributed Systems / System Engineering/ Security Information
 - Kembolle Amilkar  Lider Capitulo Owasp de Cuiabá - MT 
-- Jonson Bonazza | Coordenador LGPD | Grupo Canopus
+- Jonson Bonazza - Coordenador da LGPD no Grupo Canopus
 
 
 ## - Período:   
 09 á 11 de Dezembro de 2020 das 19 às 21hrs (Horário de Cuiabá - Mato Grosso).﻿
 
-
 ## - Realização: 
+<img src="ssets/images/fatec.png" height="200" width="200">
+
+<img src="ssets/images/owasp-cba.jpeg" height="200" width="200">
 
 ## - Apoio: 
- 
-## - Observações: 
+<img src="ssets/images/devmt.jpg" height="200" width="200">
+
+<img src="ssets/images/lume+.jpeg" height="200" width="200">
+
+## - Observações:
 - O evento será totalmente online e será transmitido pelo canal do YouTube da FATEC SENAIMT.
 - Ao final dos encontros realizaremos sorteios de Brindes para a comunidade. 
 
 ## - Inscrições: 
-https://lnkd.in/eTmCSVM 
+[https://lnkd.in/eTmCSVM](https://lnkd.in/eTmCSVM)
