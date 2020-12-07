@@ -1,5 +1,5 @@
 ---
-title: patrocinadores
+title: Patrocinadores
 layout:  null
 tab: true
 order: 5
