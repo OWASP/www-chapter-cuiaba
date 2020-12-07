@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title:Sejam muito bem-vind@s ao OWASP Day 2020!
+title: Sejam muito bem-vindos ao OWASP Day 2020
 tags: owaspday2020-tag
 level: 0
 
@@ -9,7 +9,7 @@ region: Latin America
 
 ---
  
-![Sejam muito bem-vind@s ao OWASP Day 2020!](assets/images/logo.png)
+![Sejam muito bem-vind@s ao OWASP Day 2020](assets/images/logo.png)
 
 ## - O evento:  
 Neste encontro iremos reunir vários especialistas para decorrer a temática de Direito Digital e Cibersegurança. 
