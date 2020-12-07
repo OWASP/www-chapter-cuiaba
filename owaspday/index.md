@@ -55,7 +55,7 @@ Dia 11/12- Sexta-feira - Tema "Carreiras" ( Mediadores: Luís Cézar Darienzo & 
 
 ## - Observações:
 - O evento será totalmente online e gratuito, transmitido pelo canal do YouTube da [FATEC SENAI- MT](https://www.youtube.com/c/FatecSenaiMatoGrosso)
-- Este encontro será em comemoração aos 11 anos do nosso chapter Cuiabá, nossos agradecimentos a todos que direta e indiretamente ajudam a manter nosso capitulo <3³' 
+- Este encontro será em comemoração aos 11 anos do nosso chapter Cuiabá, nossos agradecimentos a todos que direta e indiretamente ajudam a manter nosso capitulo :heart:3³' 
 - Ao final dos encontros realizaremos sorteios de brindes para a comunidade. Happy hacking !!! :D 
   
 ## - Inscrições: 
