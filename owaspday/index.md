@@ -17,8 +17,7 @@ Com a evolução da legislação brasileira e ferramentas de segurança da infor
 
 A OWASP dispõe de ferramentas e metodologias importantes para auxiliar a entrega da conformidade e disponibilidade dos serviços de tecnologia da informação. Neste encontro você terá a oportunidade de conhecer "Papéis e Processos", "Ferramentas e Skills / Segurança", "Carreiras em Segurança da informação" e poder conversar com os os especialistas no assunto.
 
-Este encontro será realizado pela Faculdade de Tecnologia SENAI-MT (FATEC) junto ao OWASP Chapter Cuiabá - MT 
-Conheça tambem as organicas que apoiam nosso encontro para fazer este dia muito especial. 
+Este encontro será realizado pela Faculdade de Tecnologia SENAI-MT (FATEC) junto ao OWASP Chapter Cuiabá - MT, Conheça tambem as organicas que apoiam nosso encontro para fazer este dia muito especial. 
 
 
 ## - Programação:  
@@ -52,11 +51,11 @@ Dia 11/12- Sexta-feira - Tema "Carreiras" ( Mediadores: Luís Cézar Darienzo & 
 <img src="assets/images/fatec.png" height="400" width="200"> <img src="assets/images/owasp-cba.jpeg" height="200" width="200">
 
 ## - Apoio: 
-<img src="assets/images/devmt.jpg" height="200" width="200"> <img src="assets/images/lume+.jpeg" height="200" width="200"> <img src="assets/images/rondon.png" height="200" width="200"> <img src="assets/images/ipgsc.png" height="200" width="200"> 
+<img src="assets/images/devmt.jpg" height="200" width="200"> <img src="assets/images/lume+.jpeg" height="200" width="200"> <img src="assets/images/rondon.png" height="200" width="200"> <img src="assets/images/igpsc.png" height="200" width="200"> 
 
 ## - Observações:
 - O evento será totalmente online e gratuito, transmitido pelo canal do YouTube da [FATEC SENAI- MT](https://www.youtube.com/c/FatecSenaiMatoGrosso)
-- Ao final dos encontros realizaremos sorteios de brindes para a comunidade. happy hacking !!! :D  
+- Ao final dos encontros realizaremos sorteios de brindes para a comunidade. Happy hacking !!! :D  
 
 ## - Inscrições: 
 [https://lnkd.in/eTmCSVM](https://lnkd.in/eTmCSVM)
