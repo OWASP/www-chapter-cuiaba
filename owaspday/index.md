@@ -15,7 +15,7 @@ region: Latin America
 Neste encontro iremos reunir vários especialistas para decorrer a temática de Direito Digital e Cibersegurança. 
 Com a evolução da legislação brasileira e ferramentas de segurança da informação, como podemos integrar os mecanismos para a entrega de compliance nas organizações. 
 
-A OWASP dispõe de ferramentas e metodologias importantes para auxiliar a entrega da conformidade e disponibilidade dos serviços de tecnologia da informação. Neste encontro você terá a oportunidade de conhecer "Papéis e Processos", "Ferramentas e Skills / Segurança", "Carreiras em Segurança da informação" e poder conversar com os os especialistas no assunto.
+A OWASP dispõe de ferramentas e metodologias importantes para auxiliar a entrega da conformidade e disponibilidade dos serviços de tecnologia da informação. Neste encontro você terá a oportunidade de conhecer "Papéis e Processos", "Ferramentas e Skills / Segurança", "Carreiras em Segurança da informação" e poder conversar com os os especialistas no assunto. o/ 
 
 Este encontro será realizado pela Faculdade de Tecnologia SENAI-MT (FATEC) junto ao OWASP Chapter Cuiabá - MT, Conheça tambem as organicas que apoiam nosso encontro para fazer este dia muito especial. 
 
@@ -48,14 +48,15 @@ Dia 11/12- Sexta-feira - Tema "Carreiras" ( Mediadores: Luís Cézar Darienzo & 
 09 á 11 de Dezembro de 2020 das 19 às 21hrs (Horário de Cuiabá - Mato Grosso).﻿
 
 ## - Realização: 
-<img src="assets/images/fatec.png" height="400" width="200"> <img src="assets/images/owasp-cba.jpeg" height="200" width="200">
+<img src="assets/images/fatec.png" height="200" width="200"> <img src="assets/images/owasp-cba.jpeg" height="200" width="200">
 
 ## - Apoio: 
 <img src="assets/images/devmt.jpg" height="200" width="200"> <img src="assets/images/lume+.jpeg" height="200" width="200"> <img src="assets/images/rondon.png" height="200" width="200"> <img src="assets/images/igpsc.png" height="200" width="200"> 
 
 ## - Observações:
 - O evento será totalmente online e gratuito, transmitido pelo canal do YouTube da [FATEC SENAI- MT](https://www.youtube.com/c/FatecSenaiMatoGrosso)
-- Ao final dos encontros realizaremos sorteios de brindes para a comunidade. Happy hacking !!! :D  
-
+- Este encontro será em comemoração aos 11 anos do nosso chapter Cuiabá, nossos agradecimentos a todos que direta e indiretamente ajudam a manter nosso capitulo <3³' 
+- Ao final dos encontros realizaremos sorteios de brindes para a comunidade. Happy hacking !!! :D 
+  
 ## - Inscrições: 
 [https://lnkd.in/eTmCSVM](https://lnkd.in/eTmCSVM)
