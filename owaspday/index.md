@@ -9,8 +9,7 @@ region: Latin America
 
 ---
  
-![Owasp Day 2020](assets/images/logo.png)
-## Sejam muito bem-vind@s ao OWASP Day 2020! 
+![Sejam muito bem-vind@s ao OWASP Day 2020!](assets/images/logo.png)
 
 ## - O evento:  
 Neste encontro iremos reunir vários especialistas para decorrer a temática de Direito Digital e Cibersegurança. 
@@ -51,14 +50,16 @@ Dia 11/12- Sexta-feira - Tema "Carreiras" ( Mediadores: Luís Cézar Darienzo & 
 09 á 11 de Dezembro de 2020 das 19 às 21hrs (Horário de Cuiabá - Mato Grosso).﻿
 
 ## - Realização: 
-<img src="ssets/images/fatec.png" height="200" width="200">
+<img src="assets/images/fatec.png" height="200" width="200">
 
-<img src="ssets/images/owasp-cba.jpeg" height="200" width="200">
+<img src="assets/images/owasp-cba.jpeg" height="200" width="200">
 
 ## - Apoio: 
-<img src="ssets/images/devmt.jpg" height="200" width="200">
+<img src="assets/images/devmt.jpg" height="200" width="200">
 
-<img src="ssets/images/lume+.jpeg" height="200" width="200">
+<img src="assets/images/lume+.jpeg" height="200" width="200">
+
+<img src="assets/images/rondon.png" height="200" width="200">
 
 ## - Observações:
 - O evento será totalmente online e será transmitido pelo canal do YouTube da FATEC SENAIMT.
