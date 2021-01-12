@@ -1,9 +1,6 @@
 ### Leaders
 
 * [Kembolle Amilkar](mailto:kembolle@owasp.org)
-* Members:
--  Gabriel Pedro
--  Ricardo Germano
--  Leandro Barata
--  Saron Milhomem
--  Alison S. Ribeiro
+* [Gabriel Pedro](mailto:gpedro831@gmail.com)
+* [Ricardo Germano](mailto:segurancalinux@gmail.com) 
+* [Leandro Barata](mailto:leandrobarata@msn.com)
