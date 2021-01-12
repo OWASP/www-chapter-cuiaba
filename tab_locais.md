@@ -16,4 +16,3 @@ tags: locais-tag
   - [UNIVAG - Centro Universitário de Várzea Grande](http://www.univag.com.br/)
   - [Faculdade FASIPE - CUIABÁ](http://www.fasipecpa.com.br/)
 
-**Privada**
