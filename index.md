@@ -10,30 +10,16 @@ region: South America
 ---
  
 ![809px](assets/images/Logo_cuiaba.png)
+## Seja bem-vindo(a)!
+Este é o capítulo OWASP em **Cuiabá/MT**.
 
-# OWASP Cuiabá Chapter
+O OWASP, sigla de Open Web Application Security Project, é uma organização internacional sem fins lucrativos destinada à transmissão de conhecimento e conscientização no que diz respeito à segurança de software, especialmente Web Security. Todos seus projetos, ferramentas, documentos, fóruns e capítulos são abertos à participação de qualquer pessoa interessada em melhorar a segurança de aplicações.
 
-O município de Cuiabá esta Localizada no estado de Mato Grosso, Possui
-cerca de 556.298 habitantes, onde possui varias empresas de tecnologia e
-Universidades que apoiam crescimento tecnológico da Cidade. Visando este
-crescimento foi criado Capitulo OWASP de Cuiabá, para conscientizar as
-pessoas envolvidas com tecnologia da informação , sobre a importância
-Segurança das aplicações.
+O município de Cuiabá esta Localizada no estado de Mato Grosso, Possui cerca de 556.298 habitantes, onde possui varias empresas de tecnologia e Universidades que apoiam crescimento tecnológico da Cidade. Visando este
+crescimento foi criado Capitulo OWASP de Cuiabá, para conscientizar as pessoas envolvidas com tecnologia da informação , sobre a importância Segurança das aplicações.
 
-A Metodologia de Trabalho da Comunidade é uma estrutura organizacional
-horizontal ou seja, a mais democrático possível, onde todos são lideres,
-todos constrõem metodologias, delegam funções e exercem suas tarefas
-para manter capitulo mais integro, aberto, e transparente possível para
-toda comunidade Cuiabana. 
+Os capítulos são liderados por líders locais, de acordo com o [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Contribuições financeiras devem ser feitas apenas de maneira online usando o botão autorizado para doação online. Para se tornar um APRESENTADOR em QUALQUER capítulo do OWASP no mundo, simplesmente revise o [speaker agreement](/www-policy/speaker-agreement), e contacte o líder do capítulo local com detalhes sobre qual projeto, pesquisa independente, ou tópico relacionado à segurança de software você gostaria de apresentar.
 
-Hoje Atuamos em todas as universidades da capital e Empresas Privadas, 
-que nos apoiam financeiramente ou em projetos para continuarmos com forte trabalho da OWASP. 
-Iremos expandir nossos horizontes ate os municípios mais distantes, levando assim nosso
-conhecimento e metodologias as todas as universidades trazendo assim
-nível maior de compreensão sobre a importância da Segurança das
-aplicações e serviços oferecidos a Sociedade.
+Todos são encorajados a participar em nossos [Projetos](/projects), [Capítulos Locais](/chapters), [Eventos](/events), [Grupos Online](https://groups.google.com/a/owasp.com/){:target='_blank'}, e [Canal Slack da Comunidade](https://owasp.slack.com/){:target='_blank'}. Encorajamos especialmente a diversidade em todas as nossas iniciativas. O OWASP é um local fantástico para apresentar sobre segurança de aplicações, para fazer networking e até mesmo construir sua reputação como um especialista. Sinta-se também convidado a [se tornar um membro](/membership) ou considere uma [doação](/donate) para suportar nosso trabalho constante.
 
-Atividades da Comunidade Meetings Conectividade agenda Leaders
-  - PT-BR - Participe da Lista de comunicação Capítulo Cuiabá [Clique Aqui](https://groups.google.com/a/owasp.org/g/owasp-cuiaba/about)
-  - U.S.A - join the list of communication Chapter Cuiabá [Click Here](https://groups.google.com/a/owasp.org/g/owasp-cuiaba/about)
-
+Happy Hacking!! :D 
