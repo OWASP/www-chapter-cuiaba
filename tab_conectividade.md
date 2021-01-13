@@ -7,14 +7,11 @@ tags: conectividade-tag
 ---
 
 ## Conectividade e Midia Digital
-- **Ambiente de Desenvolvimento:** <http://github.com/OWASP-Cuiaba>
-- **Ambiente Educacional:** <http://github.com/OWASP-Cuiaba>
-- **Ambiente de Comunicação:** Server: irc.freenode.net. Canal:\#owasp_cuiaba
-
-Atividades da Comunidade Meetings Conectividade agenda Leaders
-  - PT-BR - Participe da Lista de comunicação Capítulo Cuiabá [Clique Aqui](https://groups.google.com/a/owasp.org/g/owasp-cuiaba/about)
-  - U.S.A - join the list of communication Chapter Cuiabá [Click Here](https://groups.google.com/a/owasp.org/g/owasp-cuiaba/about)
-  
+* [Meetup](#)
+* [Google Groups](https://groups.google.com/a/owasp.org/g/owasp-cuiaba/about)
+* [Github](https://github.com/OWASP/www-chapter-cuiaba)
+* [Whatsapp](https://chat.whatsapp.com/6EglZhubxXWKgFNzCglm5H)
+ 
 ## Agenda Chapter Cuiabá
 Acompanhe as atividades da comunidade pela adicione os eventos em sua
 agenda. [Calendario Oficial](https://calendar.google.com/calendar/embed?src=owasp.org_2dlqbcecuri6ivgmhh041i61os%40group.calendar.google.com&ctz=America/Cuiaba)
