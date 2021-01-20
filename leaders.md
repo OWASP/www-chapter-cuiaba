@@ -1,6 +1,5 @@
 ### Leaders
 
 * [Kembolle Amilkar](mailto:kembolle@owasp.org)
-* [Gabriel Pedro](mailto:gpedro831@gmail.com)
-* [Ricardo Germano](mailto:segurancalinux@gmail.com) 
-* [Leandro Barata](mailto:leandrobarata@msn.com)
+* [Ricardo Germano](mailto:ricardo.germano@owasp.org)
+* [Leandro Barata](mailto:leandro.diasbarata@owasp.org)
